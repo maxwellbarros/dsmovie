@@ -48,10 +48,6 @@ function FormCard( { movieId } : Props) {
         });
 
     }
-<<<<<<< HEAD
-    
-=======
->>>>>>> a5586f8b78c1fb8342907f137e63729d2f08ca43
 
     return (
         <div className="dsmovie-form-container">
